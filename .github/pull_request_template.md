@@ -1,16 +1,16 @@
-### Descricao
+### Nome da tarefa
 |----------------------------------------------------------------------|
 
-<b><h3>Descrição</h3></b>
+### Descrição
 Descreva a tarefa
 
-<b><h3>Problemas Encontrados</h3></b>
+### Problemas Encontrados
 Descreva o problema/motivação que originou a tarefa
 
-<b><h3>Observação para testes</h3></b>
+### Observação para testes
 Observação geral para testes
 
-<b><h3>Checklist</h3></b>
+### Checklist
 
  - [ ] Testes realizados
  - [ ] Remoção de código decartável
