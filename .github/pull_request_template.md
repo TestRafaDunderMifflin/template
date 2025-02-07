@@ -12,7 +12,7 @@ Observação geral para testes
 
 ### Checklist
 
- - [ ] Testes realizados
- - [ ] Remoção de código decartável
- - [ ] Review de código
- - [ ] Verificação de Branch de envio
+ -[ ] Testes realizados
+ -[ ] Remoção de código decartável
+ -[ ] Review de código
+ -[ ] Verificação de Branch de envio
